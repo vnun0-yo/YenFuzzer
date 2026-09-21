@@ -52,10 +52,10 @@ sudo python3 YenFuzzer.py --help
 ## simple scan
 
 ```bash
-sudo python3 YenFuzzer.py  -u http://localhost -w /usr/share/wordlists/dirb/common.txt
+sudo python3 YenFuzzer.py -u http://localhost -w /usr/share/wordlists/dirb/common.txt
 ```
 ## Save The Scan 
 
 ```bash
-sudo python3 YenFuzzer.py  -u http://localhost -w /usr/share/wordlists/dirb/common.txt -o scan.txt
+sudo python3 YenFuzzer.py -u http://localhost -w /usr/share/wordlists/dirb/common.txt -o scan.txt
 ```
