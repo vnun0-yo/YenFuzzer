@@ -38,18 +38,14 @@ sudo pip install aiohttp click rich
 ```bash
 sudo pip install aiohttp click rich --break-system-packages
 ```
-
-```bash
-sudo python3 YenFuzzer.py --help 
-```
-
-## Try The Tool 
-
 ## Run The Tool 
 
 ```bash
 sudo python3 YenFuzzer.py --help 
 ```
+
+
+
 
 ## simple scan
 
