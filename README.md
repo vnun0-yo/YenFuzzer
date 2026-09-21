@@ -59,3 +59,14 @@ sudo python3 YenFuzzer.py -u http://localhost -w /usr/share/wordlists/dirb/commo
 ```bash
 sudo python3 YenFuzzer.py -u http://localhost -w /usr/share/wordlists/dirb/common.txt -o scan.txt
 ```
+
+
+## Run The Tool Any dirctory 
+
+```bash
+cp YenFuzzer.py /usr/bin/YenFuzzer
+```
+
+```bash
+chmod +x /usr/bin/YenFuzzer
+```
