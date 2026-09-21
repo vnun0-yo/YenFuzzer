@@ -16,6 +16,10 @@ Fast directory fuzzer for web reconnaissance.
 git clone https://github.com/vnun0-yo/YenFuzzer.git
 ```
 
+```bash
+cd YenFuzzer
+```
+
 ## install python in linux
 
 
