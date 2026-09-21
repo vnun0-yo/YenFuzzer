@@ -14,9 +14,12 @@ Fast directory fuzzer for web reconnaissance.
 
 ## install python in linux
 
+
 ```bash
 sudo apt install python3
 ```
+
+## install Libraries
 
 
 ```bash
