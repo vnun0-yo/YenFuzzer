@@ -45,6 +45,8 @@ sudo python3 YenFuzzer.py --help
 
 ## Try The Tool 
 
+## Run The Tool 
+
 ```bash
 sudo python3 YenFuzzer.py --help 
 ```
